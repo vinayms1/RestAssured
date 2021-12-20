@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-15T12:23:06 IST" name="Default suite" finished-at="2021-12-15T12:23:12 IST" duration-ms="6633">
+    <groups>
+    </groups>
+    <test started-at="2021-12-15T12:23:06 IST" name="Default test" finished-at="2021-12-15T12:23:12 IST" duration-ms="6633">
+      <class name="EndToEndTestingUsingFramWork.Create_Project_and_Allocate_userTest">
+        <test-method signature="createProjectTest()[pri:0, instance:EndToEndTestingUsingFramWork.Create_Project_and_Allocate_userTest@57d7f8ca]" started-at="2021-12-15T12:23:06 IST" name="createProjectTest" finished-at="2021-12-15T12:23:12 IST" duration-ms="6543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectTest -->
+      </class> <!-- EndToEndTestingUsingFramWork.Create_Project_and_Allocate_userTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
